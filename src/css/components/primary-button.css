@@ -5,3 +5,7 @@
     color: var(--color-primary);
     border-radius: 10px;
 }
+.primary-button.-dark{
+    color: var(--color-base);
+    font-family: 'Bitter', serif;
+}
